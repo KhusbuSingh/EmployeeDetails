@@ -20,7 +20,7 @@ public class Employee {
 		}
 		private void empEmail() {
 			System.out.println("Employee1");
-			System.out.println("Employee2");
+			System.out.println("saroj");
 			
 
 		}
