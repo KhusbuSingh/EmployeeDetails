@@ -19,7 +19,7 @@ public class Employee {
 
 		}
 		private void empEmail() {
-			System.out.println("Employee1");
+			System.out.println("Employee name is Khusbu");
 			System.out.println("Employee name is saroj");
 			
 
